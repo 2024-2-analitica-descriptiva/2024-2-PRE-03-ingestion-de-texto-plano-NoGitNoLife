@@ -1,0 +1,78 @@
+Cluster: 1
+Cantidad de palabras clave: 105
+Porcentaje de palabras clave: 159%
+Palabras clave: maximum power point tracking, fuzzy-logic based control, photo voltaic (pv),, photo-voltaic  system,  differential   evolution   algorithm,   evolutionary, algorithm, double-fed induction generator (dfig), ant  colony  optimisation,, photo voltaic array, firefly algorithm, partial shade.
+
+--------------------------------------------------
+Cluster: 2
+Cantidad de palabras clave: 102
+Porcentaje de palabras clave: 154%
+Palabras clave: support vector machine,, network,  convolution  neural  network,  speed   wind   prediction,   energy, consumption,   wind   power   forecasting,   extreme    learning    machine,, recurrent-neural-network (rnn), radial basis function (rbf)  networks,  wind, farm.
+
+--------------------------------------------------
+Cluster: 3
+Cantidad de palabras clave: 89
+Porcentaje de palabras clave: 134%
+Palabras clave: smart grid, wind power, reinforcement learning,, efficiency, solar energy, deep reinforcement learning, demand-response (dr),, internet of things, energy harvester, q-learning.
+
+--------------------------------------------------
+Cluster: 4
+Cantidad de palabras clave: 60
+Porcentaje de palabras clave: 91%
+Palabras clave: wind, response-surface methodology, condition monitoring, load forecasting, energy, consumption forecast,  anomalies  detection,  optimization-based  algorithm,, supervisory control and data acquisition.
+
+--------------------------------------------------
+Cluster: 5
+Cantidad de palabras clave: 52
+Porcentaje de palabras clave: 79%
+Palabras clave: electric vehicle, lithium-ion batteries, state of charge, state, hybrid-electric vehicle, energy  management  strategies,  energy  management, system, remaining useful life, battery management system, transfer learning,, hybrid energy storage.
+
+--------------------------------------------------
+Cluster: 6
+Cantidad de palabras clave: 51
+Porcentaje de palabras clave: 77%
+Palabras clave: particle, artificial  bee   colonies,   energy   storage   systems,   bat   algorithm,, gravitational search algorithm, distributed  system,  multi-objective  swarm, optimization  (mopso),  optimal  power-flow  (opf),  load-frequency  control
+
+--------------------------------------------------
+Cluster: 7
+Cantidad de palabras clave: 42
+Porcentaje de palabras clave: 63%
+Palabras clave: multi-objective, non-dominated  sorting  genetic  algorithm,   sensitive   analysis,   hybrid, renewable energy source, plug-in electric vehicle, combined-heat and  power,, multi-objective genetic algorithm, unit-commitment, dc-dc converters.
+
+--------------------------------------------------
+Cluster: 8
+Cantidad de palabras clave: 38
+Porcentaje de palabras clave: 57%
+Palabras clave: genetic algorithm, demand-side, system (hes), wind turbine blade, data-driven modelling, simulated annealing,, solar forecasting, geographic information system,  renewable  energy  system,, cogeneration.
+
+--------------------------------------------------
+Cluster: 9
+Cantidad de palabras clave: 35
+Porcentaje de palabras clave: 53%
+Palabras clave: anfis,, programing,   islanding   detection,   expert  system,  distributed networks,, evolutionary computation,  wavelet-based  neural  network,   root mean square, errors, virtual power plant.
+
+--------------------------------------------------
+Cluster: 10
+Cantidad de palabras clave: 27
+Porcentaje de palabras clave: 41%
+Palabras clave: micro grid,, energy storage system, dc micro grid, pitch-control,  droop  control,  hybrid, ac/dc microgrid, voltage regulation, superconducting magnetic energy storage,, distributed-control.
+
+--------------------------------------------------
+Cluster: 11
+Cantidad de palabras clave: 22
+Porcentaje de palabras clave: 33%
+Palabras clave: hydrogen,, biofuel, ethanol, engine performance, pyrolysis, anaerobic digester.
+
+--------------------------------------------------
+Cluster: 12
+Cantidad de palabras clave: 22
+Porcentaje de palabras clave: 33%
+Palabras clave: state of charge (soc) estimation,, forecasting,  computational  fluid  dynamics,  generalized-regression  neural, network,  monte-carlo   simulation,   multiple   linear   regression,   power, generation,   nonlinear   auto-regressive   exogenous   (narx)  model  neural, networks, surrogate model, extreme gradient boosting.
+
+--------------------------------------------------
+Cluster: 13
+Cantidad de palabras clave: 17
+Porcentaje de palabras clave: 26%
+Palabras clave: pem, optimisation, particles-size  distributions,  biomass  gasification,  exergy,, battery    management,    hydrogen     production,     numeric    simulation,, system-identification.
+
+--------------------------------------------------
